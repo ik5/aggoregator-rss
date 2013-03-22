@@ -17,6 +17,6 @@ I use this project to learn both Go and Angular.js
  * [VIM](http://vim.org) / [LiteIDE](http://code.google.com/p/liteide/)
  * [Arch Linux](https://www.archlinux.org/)
  * [GIT](http://git-scm.com/) + [github](https://github.com/)
- * [Google+](http://plus.google.com)
+ * [Google+](http://plus.google.com) - golang forum :)
 
 ## License
